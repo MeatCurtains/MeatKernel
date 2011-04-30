@@ -1,3 +1,10 @@
+This Kernel is Based off of Tanimn's Twilight Zone Kernel.
+He is an outstanding guy and solid developer. He deserves 
+the majority of the credit for any of my work. Thanks. His
+Kernel is very solid and why I wanted to base my work from
+it. I hope to bring it justice.
+
+
 #########################################################
 ##
 ## README -	Twilight Zone kernel and initramfs
@@ -17,7 +24,7 @@ Prerequisites:
 	Cross Compiler
 	These Sources
 	Handset
-
+#
 How-To:
 
 	Ask me again later.
